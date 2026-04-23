@@ -1,0 +1,6 @@
+{
+  "name": "Motion-S",
+  "description": "Advanced sign language translation engine for the Signvrse platform, converting text into structured ASL/BSL/NSL gloss sequences and facial animation parameters.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": []
+}
